@@ -4,7 +4,7 @@ This is a program which compresses a string by Huffman Coding and generates it i
 ### What is Huffman Coding?
   In computer science and information theory, a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression.
   
-<img src="graph.png" width="500"/>
+<img src="C:\Users\ramiz\Desktop\Physics 1" width="500"/>
 
   Huffman tree generated from the exact frequencies of the text "this is an example of a huffman tree". The frequencies and codes of each character are below. Encoding the sentence with this code requires 135 (or 147) bits, as opposed to 288 (or 180) bits if 36 characters of 8 (or 5) bits were used. (This assumes that the code tree structure is known to the decoder and thus does not need to be counted as part of the transmitted information.)
 
